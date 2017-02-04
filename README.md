@@ -10,14 +10,20 @@
 **Northeastern University** - Boston, MA | September 2012 - December 2016
 
 * BS Computer Engineering 2017
-* 3.76/4.0 GPA -- *magna cum laude*
+* 3.76/4.0 GPA - *magna cum laude*
 * Honors Program
 
 ##Experience##
 
+###Polis###
+
+**Software Development Intern** - Boston, MA | January 2017 - present
+
+*node.js, Docker, Apache Kafka, GoLang, TravisCI, AWS*
+
 ###Amazon###
 
-**Software Development Co-op** - Seattle, WA | January 2016 - July 2016
+**Software Development Engineer Co-op** - Seattle, WA | January 2016 - July 2016
 
 *Java, Spring Framework, TestNG, Git, 	Object	Oriented	Design,	Test	Driven	Design,	AWS, Agile Development*
 
